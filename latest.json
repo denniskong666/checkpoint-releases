@@ -1,5 +1,5 @@
 {
-  "version": "0.9.43",
-  "notes": "更新提示改用发布标签，不再被 GitHub 缓存拖住。",
+  "version": "0.9.44",
+  "notes": "死亡时的卡顿修复；人机寻路不再挤在同一帧。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
