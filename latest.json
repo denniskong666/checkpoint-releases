@@ -1,5 +1,5 @@
 {
-  "version": "0.9.37",
-  "notes": "新增角色选择，可在房间大厅挑选操作员。",
+  "version": "0.9.38",
+  "notes": "角色选择、掉落的 C4 会有人去捡、更新检查失败会说明原因。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
