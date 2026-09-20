@@ -1,5 +1,5 @@
 {
-  "version": "0.9.34",
-  "notes": "新增：游戏内一键更新。菜单里出现「立即更新」就点它，自动下载、替换、重开，不用碰任何文件。",
+  "version": "0.9.35",
+  "notes": "版本号递增，便于验证游戏内一键更新。内容同 v0.9.34。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
