@@ -1,5 +1,5 @@
 {
-  "version": "0.9.27",
-  "notes": "夺舍、修复悬浮的第二把枪、机器人不再卡在台阶前踱步",
+  "version": "0.9.29",
+  "notes": "新增:打开游戏会自动检查更新，有新版会在菜单提示。包内自带「更新 CHECKPOINT」，双击即可自动下载替换。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
