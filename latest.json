@@ -1,5 +1,5 @@
 {
-  "version": "0.9.33",
-  "notes": "修复 Windows 更新器闪退：逻辑移出批处理文件，避免转义问题。",
+  "version": "0.9.34",
+  "notes": "新增：游戏内一键更新。菜单里出现「立即更新」就点它，自动下载、替换、重开，不用碰任何文件。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
