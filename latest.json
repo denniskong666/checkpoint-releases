@@ -1,5 +1,5 @@
 {
-  "version": "0.9.30",
-  "notes": "修复：更新器会就地替换你正在用的那个 CHECKPOINT，不会再多出第二个游戏。",
+  "version": "0.9.31",
+  "notes": "修复：更新器不再使用会被代理拦住的 GitHub API 接口。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
