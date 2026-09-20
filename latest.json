@@ -1,5 +1,5 @@
 {
-  "version": "0.9.41",
-  "notes": "炸弹爆炸有声音了；修复接管两次后身体悬空。",
+  "version": "0.9.42",
+  "notes": "更新提示验证版本，代码与 0.9.41 相同。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
