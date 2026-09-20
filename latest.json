@@ -1,5 +1,5 @@
 {
-  "version": "0.9.32",
-  "notes": "更新器绕过 CDN 缓存，不会再下载到已被替换的版本。",
+  "version": "0.9.33",
+  "notes": "修复 Windows 更新器闪退：逻辑移出批处理文件，避免转义问题。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
