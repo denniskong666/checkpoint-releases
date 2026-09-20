@@ -1,5 +1,5 @@
 {
-  "version": "0.9.36",
-  "notes": "修复 A 点发白泛蓝；夺舍后不再残留死前那把武器。",
+  "version": "0.9.37",
+  "notes": "新增角色选择，可在房间大厅挑选操作员。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
