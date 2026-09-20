@@ -1,5 +1,5 @@
 {
-  "version": "0.9.38",
-  "notes": "角色选择、掉落的 C4 会有人去捡。",
+  "version": "0.9.40",
+  "notes": "炸弹爆炸有杀伤（九米内必死）；地图默认 Dust II；修复回合切换崩溃。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
