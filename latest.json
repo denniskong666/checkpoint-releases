@@ -1,5 +1,5 @@
 {
-  "version": "0.9.31",
-  "notes": "修复：更新器不再使用会被代理拦住的 GitHub API 接口。",
+  "version": "0.9.32",
+  "notes": "更新器绕过 CDN 缓存，不会再下载到已被替换的版本。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
