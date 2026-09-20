@@ -1,5 +1,5 @@
 {
-  "version": "0.9.39",
-  "notes": "回合结束会把身体还给玩家；更新检查在慢网络下不再误报失败。",
+  "version": "0.9.38",
+  "notes": "角色选择、掉落的 C4 会有人去捡。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
