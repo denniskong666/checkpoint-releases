@@ -1,5 +1,5 @@
 {
-  "version": "0.9.35",
-  "notes": "版本号递增，便于验证游戏内一键更新。内容同 v0.9.34。",
+  "version": "0.9.36",
+  "notes": "修复 A 点发白泛蓝；夺舍后不再残留死前那把武器。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
