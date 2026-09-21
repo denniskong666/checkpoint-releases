@@ -1,5 +1,5 @@
 {
-  "version": "0.9.46",
-  "notes": "修复观战手臂可能悬空显示的问题。",
+  "version": "0.9.47",
+  "notes": "地图修复：木箱有了碰撞，Mirage 材质颜色和室内光照恢复。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
