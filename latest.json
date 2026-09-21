@@ -1,5 +1,5 @@
 {
-  "version": "0.9.45",
-  "notes": "人机走路拉直，路程更短；接管过的队友不再空手；Robin 模型修整。",
+  "version": "0.9.46",
+  "notes": "修复观战手臂可能悬空显示的问题。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
