@@ -1,5 +1,5 @@
 {
-  "version": "0.9.48",
-  "notes": "还原 Source 原版烘焙光照，房间深处和阳台底下不再一片平光。",
+  "version": "0.9.49",
+  "notes": "AI 帮进攻方选战术：没人按 T 时由 AI 根据比分、经济和前几回合结果选战术，人机队友在聊天里说明理由；修复人机喊话一直是英文的问题。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
