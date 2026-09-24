@@ -1,5 +1,5 @@
 {
-  "version": "0.9.47",
-  "notes": "地图修复：木箱有了碰撞，Mirage 材质颜色和室内光照恢复。",
+  "version": "0.9.48",
+  "notes": "还原 Source 原版烘焙光照，房间深处和阳台底下不再一片平光。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
