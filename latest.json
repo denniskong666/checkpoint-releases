@@ -1,5 +1,5 @@
 {
-  "version": "0.9.49",
-  "notes": "AI 帮进攻方选战术：没人按 T 时由 AI 根据比分、经济和前几回合结果选战术，人机队友在聊天里说明理由；修复人机喊话一直是英文的问题。",
+  "version": "0.9.50",
+  "notes": "AI 接管人机的重要决策：警方站位、两边买枪、回防派几个人、进攻转点、下包后回防还是保枪；进攻战术不再锁死；顶部改成瓦洛兰特式记分条（角色头像 + 五色外框），聊天框放大。",
   "page": "https://github.com/denniskong666/checkpoint-releases/releases/latest"
 }
